@@ -1,0 +1,22 @@
+{
+  "name": "nodemailertest",
+  "version": "1.0.0",
+  "description": "Testing NodeMailer module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwhitty94/NodeMailerTest.git"
+  },
+  "author": "Ben Whittle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwhitty94/NodeMailerTest/issues"
+  },
+  "homepage": "https://github.com/bwhitty94/NodeMailerTest#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.2"
+  }
+}
