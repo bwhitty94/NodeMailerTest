@@ -17,7 +17,7 @@ let transporter = nodemailer.createTransport({
 let mailOptions = {
     from: '"NodeMailer 👻" <bennodemailertest@gmail.com>', // sender address
     to: 'nby08339@zamge.com', // list of receivers
-    subject: 'Hello ✔', // Subject line
+    subject: 'Hello World ✔', // Subject line
     text: 'Hello world?', // plain text body
     html: '<b>Hello world?</b>' // html body
 };
